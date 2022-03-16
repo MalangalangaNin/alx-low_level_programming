@@ -1,22 +1,23 @@
-#include "holberton.h"
+#include "main.h"
+
 
 /**
- *main - chec the code 
+ * main - Entry point
  *
- *Return always zero 
+ * Return: nothing, return void
  */
-int main (void)
-{
- int i ;
- char c ;
 
-for (i=0; i<10; ++i;)
+int main(void)
 {
-for (c='a' ; c<='z' ; c++ )
-{
-_putchar(c);
-}
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
 _putchar('\n');
-}
+
 return (0);
 }
