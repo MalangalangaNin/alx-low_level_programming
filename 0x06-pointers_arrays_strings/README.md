@@ -1,1 +1,2 @@
-My Ox06 Pointers , Arrays and String task
+This is to be read Tralalalala
+
